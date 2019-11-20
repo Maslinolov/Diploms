@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Первым заместителем начальника Лидского пограничного отряда по пограничному контролю был назначен полковник Гультяев Александр Николаевич (1997-1999). Заместителями начальника Лидского пограничного отряда по пограничному контролю в разное время были: полковники Курашов Н.Ю. (1999-2005), Яцков В.Н. (2005-2008). В связи с изменениями в декабре 2008 года организационно-штатной структуры пограничного отряда должность заместителя начальника пограничного отряда по пограничному контролю была упразднена. Начальником отдела пограничного контроля Лидского пограничного отряда был назначен подполковник Мацулевич О.Р. (2008-2010). В феврале 2009 года отдел пограничного контроля был реорганизован в службу пограничного контроля. С 2010 года по 2013 год службу пограничного контроля Лидского пограничного отряда возглавлял полковник Волынец О.А. С 2013 года по настоящее время службу пограничного контроля Лидского пограничного отряда возглавляет подполковник Будейко А.Н. В октябре 2014 году служба пограничного контроля реорганизована в управление пограничного контроля Лидского пограничного отряда. 
+С декабря 1997 года в состав Лидского пограничного отряда входили отделения пограничного контроля «Бенякони-1», «Бенякони-2», «Дотишки», «Геранены», «Поречье-1», «Поречье-2», «Привалка». В апреле 2007 года отделение пограничного контроля «Геранены» было переформировано в пост пограничного контроля «Геранены» и включено в штат отделения пограничного контроля «Бенякони-1», с августа 2009 года пост пограничного контроля «Геранены» реорганизован в группу пограничного контроля и включен в штат пограничного поста «Субботники», а с января 2015 года – в штат отделения пограничного контроля «Дотишки». В ноябре 2007 года отделения пограничного контроля «Поречье-1», «Поречье-2», «Привалка» в составе пограничной комендатуры «Поречье» переданы в зону ответственности Гродненской пограничной группы. 
+Отделение пограничного контроля «Геранены» было сформировано в ноябре 1993 года. Личный состав отделения охрану Государственной границы осуществлял в межгосударственном пункте пропуска Геранены. Первый командир подразделения - капитан Жестков Павел Павлович (1993-1995). Отделением пограничного контроля «Геранены» командовали: капитаны Мороз С.А. (1995-1997), Липницкий И.П. (1997-1999), Юфа А.Г. (1999-2002), Авижич Ю.М. (2002-2004), Губенко С.В. (2004-2007).
+Отделение пограничного контроля «Бенякони-1» было сформировано в январе 1993 года. Личный состав отделения охрану Государственной границы осуществляет в международном автодорожном пункте пропуска Бенякони. В марте 1993 года установлен пограничный пост (типовой модуль) вблизи старой мельницы н.п. Бенякони, а с 5 мая 1993 года открыт стационарный пункт пропуска. Первый командир подразделения - майор Ковалев Олег Геннадьевич (1993-1995). Первая смена заступила на охрану Государственной границы 14 мая 1993 года в составе: прапорщиков Самаева А.В., Волкова А.В., Яцыны М.И. Вискуба В.В., Кузьмицкого В.И. Отделением пограничного контроля «Бенякони – 1» командовали: подполковники Лось Ю.В. (1995-1998), Лапин А.А. (1998-2002), Поддубный Н.Н. (2002-2003), Будейко А.Н. (2003-2006), Малец О.М. (2006-2007), Валюк А.Н. (2007-2009); майор Тушинский С.Ф. (2009-2010); подполковники Павлович А.С. (2010-2014), Станчик М.В. (2014 по наст. время). В период с октября 2006 года по декабрь 2010 года проведена реконструкция пункта пропуска, в результате чего существенно увеличилась его пропускная способность: с 300 легковых автомобилей, 120 грузовых автомобилей и 1100 лиц в сутки до 1100 легковых автомобилей, 500 грузовых автомобилей и 2500 лиц в сутки. С 2012 года по 2017 год военнослужащими отделения пограничного контроля «Бенякони-1» пропущено через границу более 5910000 лиц и 2880000 транспортных средств, задержано 8 нарушителей Государственной границы, более 40 нарушителей режима Государственной границы, 480 нарушителей режима в пункте пропуска, 60 нарушителей пограничного режима, 780 нарушителей правил пребывания иностранных граждан и лиц без гражданства в Республике Беларусь, выявлено более 630 случаев перемещения через Государственную границу товарно-материальных ценностей, при этом в 10 случаях задерживались оружие и боеприпасы, в 92 случаях специальные средства и в 7 случаях наркотические средства.
+Отделение пограничного контроля «Бенякони-2» было сформировано в январе 1993 года. Личный состав отделения охрану Государственной границы осуществляет в международном пункте пропуска на железнодорожной станции Бенякони. К осуществлению пропуска через Государственную границу отделение пограничного контроля приступило с 5 мая 1993 года. Первый начальник отделения пограничного контроля «Бенякони-2» - майор Букин Александр Антонович (1993-1994). Первая смена заступила на охрану Государственной границы 15 мая 1993 года в составе: майора Букина А.А., прапорщиков Стацевича А.К, Мороза А.Н., Куней У.П., Мухлядо А.Н. Ковальчука Е.А. Первоначально отделение пограничного контроля размещалось в типовых модулях, а с весны 2001 года подразделение размещается в здании железнодорожной станции «Беняконе». Отделением пограничного контроля «Бенякони – 2» командовали: капитан Белявский В.В. (1994-1995), майоры Костецкий С.В. (1995-1998), Попылин С.Н. (1998-1999), подполковник Чернышев С.Н. (1999 - 2003), майоры Тиханович М.Е. (2003-2006), Корнийчук А.В. (2006-2012), Алексейчик В.И. (2012-2013), Майзик С.В. (2013-2015), Михалевич С.Н. (2015 по наст. время). С 2012 года по 2017 год военнослужащими отделения пограничного контроля «Бенякони-2» пропущено через границу более 85000 граждан, около 40000 железнодорожных составов, задержано 3 нарушителя Государственной границы, 2 нарушителя режима в пункте пропуска, более 170 нарушителя пограничного режима, 5 нарушителей правил пребывания иностранных граждан и лиц без гражданства в Республике Беларусь, выявлено более 70 случаев перемещения через Государственную границу товарно-материальных ценностей при этом в 1 случае наркотические средства.
+Отделение пограничного контроля «Дотишки» было сформировано в апреле 1993 г. Пропуск через Государственную границу лиц, транспортных средств и товаров личным составом отделения был начат 1 июня 1993 г. в межгосударственном пункте пропуска Дотишки. Первый командир подразделения - майор Чувашов Александр Васильевич (1993-1995). Отделением пограничного контроля «Дотишки» командовали: майоры Мартьянов И.Н. (1995-1997), Алексееюк В.В. (1997-2001), Севрук О.Н. (2001-2004); капитаны Малец О.М. (2004-2006), Валюк А.Н. (2006-2007), Кудрявцев Д.Г. (2007-2008), Алкесейчик В.И. (2008-2010), майоры Станчик М.В. (2010-2013), Фёдоров К.А. (2013 по наст. время). В декабре 2007 года межгосударственный пункт пропуска Дотишки был реорганизован в пункт упрощенного пропуска. С января 2015 г. личным составом отделения пограничного контроля «Дотишки» был начат пропуск через государственную границу лиц, транспортных средств и товаров также в пунктах упрощенного пропуска Пицкуны, Геранены и Петюлевцы. В октябре 2016 г. пункт упрощенного пропуска Петюлевцы передан в зону ответственности Гродненской пограничной группы. С 2012 г. по 2017 г. военнослужащими отделения пограничного контроля «Дотишки» пропущено через Государственную границу более 470000 граждан, около 209000 транспортных средств, задержан 1 нарушитель Государственной границы, более 10 нарушителей режима Государственной границы, 30 нарушителей режима в пункте пропуска, 15 нарушителей пограничного режима, 15 нарушителей правил пребывания иностранных граждан и лиц без гражданства в Республике Беларусь, выявлено более 80 случаев перемещения через Государственную границу товарно-материальных ценностей, при этом в 1 случае задерживались боеприпасы и 5 случаях специальные средства.</value>
+  </data>
+</root>

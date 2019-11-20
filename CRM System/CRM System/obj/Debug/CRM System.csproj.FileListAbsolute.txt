@@ -1,0 +1,44 @@
+C:\Users\Dmitry\Desktop\CRM System\CRM System\bin\Debug\CRM System.exe.config
+C:\Users\Dmitry\Desktop\CRM System\CRM System\bin\Debug\DataB.mdf
+C:\Users\Dmitry\Desktop\CRM System\CRM System\bin\Debug\DataB_log.ldf
+C:\Users\Dmitry\Desktop\CRM System\CRM System\bin\Debug\CRM System.exe
+C:\Users\Dmitry\Desktop\CRM System\CRM System\bin\Debug\CRM System.pdb
+C:\Users\Dmitry\Desktop\CRM System\CRM System\obj\Debug\CRM_System.Authorization.resources
+C:\Users\Dmitry\Desktop\CRM System\CRM System\obj\Debug\CRM_System.Properties.Resources.resources
+C:\Users\Dmitry\Desktop\CRM System\CRM System\obj\Debug\CRM System.csproj.GenerateResource.Cache
+C:\Users\Dmitry\Desktop\CRM System\CRM System\obj\Debug\CRM System.exe
+C:\Users\Dmitry\Desktop\CRM System\CRM System\obj\Debug\CRM System.pdb
+C:\Users\Dmitry\Desktop\CRM System\CRM System\obj\Debug\CRM_System.Manager.resources
+C:\Users\Dmitry\Desktop\CRM System\CRM System\obj\Debug\CRM_System.WrongPass.resources
+C:\Users\Dmitry\Desktop\CRM System\CRM System\obj\Debug\CRM_System.Head_of_Dep.resources
+C:\Users\Dmitry\Desktop\CRM System\CRM System\obj\Debug\CRM_System.ChangePassword.resources
+C:\Users\Dmitry\Desktop\CRM System\CRM System\obj\Debug\CRM_System.Clients.resources
+C:\Users\Dmitry\Desktop\CRM System\CRM System\obj\Debug\CRM_System.NewOrder.resources
+C:\Users\Dmitry\Desktop\CRM System\CRM System\obj\Debug\CRM_System.Services.resources
+C:\Users\Dmitry\Desktop\CRM System\CRM System\obj\Debug\CRM_System.ManagersW.resources
+C:\Users\Dmitry\Desktop\CRM System\CRM System\obj\Debug\CRM_System.SvcManager.resources
+C:\Users\Dmitry\Desktop\CRM System\CRM System\obj\Debug\CRM_System.Arhve.resources
+C:\Users\Dmitry\Desktop\CRM System\CRM System\obj\Debug\CRM_System.Admin.resources
+D:\Проекты C#\CRM System\CRM System\bin\Debug\CRM System.exe.config
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM System.exe
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM System.pdb
+D:\Проекты C#\CRM System\CRM System\bin\Debug\DataB.mdf
+D:\Проекты C#\CRM System\CRM System\bin\Debug\DataB_log.ldf
+D:\Проекты C#\CRM System\CRM System\bin\Debug\CRM System.exe
+D:\Проекты C#\CRM System\CRM System\bin\Debug\CRM System.pdb
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM System.csprojResolveAssemblyReference.cache
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM_System.Admin.resources
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM_System.Arhve.resources
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM_System.Authorization.resources
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM_System.ChangePassword.resources
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM_System.Clients.resources
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM_System.Head_of_Dep.resources
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM_System.Manager.resources
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM_System.ManagersW.resources
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM_System.NewOrder.resources
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM_System.Properties.Resources.resources
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM_System.Services.resources
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM_System.SvcManager.resources
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM_System.WrongPass.resources
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM System.csproj.GenerateResource.Cache
+D:\Проекты C#\CRM System\CRM System\obj\Debug\CRM_System.PriceCalc.resources
